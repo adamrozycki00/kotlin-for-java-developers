@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/section-03/challenge-01/challenge-01.iml" filepath="$PROJECT_DIR$/section-03/challenge-01/challenge-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-03/declarations/declarations.iml" filepath="$PROJECT_DIR$/section-03/declarations/declarations.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-03/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/section-03/hello-world/hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-for-java-developers.iml" filepath="$PROJECT_DIR$/kotlin-for-java-developers.iml" />
